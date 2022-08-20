@@ -1,0 +1,21 @@
+@import url("./reset.css");
+@import url("./variable.css");
+@import url("./helpers/index.css");
+
+
+
+.nav-default > ul{
+
+  list-style: none;
+  padding-left: 0;
+}
+
+.nav-default>ul>li{
+  padding: 8px 10px;
+}
+
+.nav-default>ul>li>a:hover {
+  box-shadow: 0 4px 10px grey;
+  font-size: 1.1rem;
+}
+
