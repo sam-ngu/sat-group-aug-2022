@@ -1,0 +1,92 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Document</title>
+
+  <style>
+    .hide{
+      display: none;
+    }
+
+  </style>
+</head>
+<body>
+
+
+  <!-- landing page -->
+  <!-- start game button -->
+  <section id="section-landing" >
+    <h1>Lets play a game</h1>
+
+    <button id="button-start-game">Start game</button>
+
+  </section>
+
+
+  <!-- question page -->
+  <section id="section-question" class="hide">
+    <!-- timer -->
+    <div>Timer: <span id="span-timer">5</span> (s)</div>
+
+    <article>
+      <!-- question title -->
+      <h2 id="question-title">How you doin?</h2>
+      <!-- question choices -->
+      <ul>
+        <li class="question-choices"><button class="button-choice">Good</button></li>
+        <li class="question-choices"><button class="button-choice">Bad</button></li>
+        <li class="question-choices"><button class="button-choice">Bloody Good</button></li>
+      </ul>
+      <!-- feedback -->
+
+      <div class="question-feedback">
+        Well done!
+      </div>
+
+    </article>
+
+  </section>
+
+
+  <!-- end game page -->
+  <section id="section-end-game" class="hide">
+
+    <!-- high score obtained -->
+    <h2 id="highscore">10</h2>
+
+    <div>
+      <!-- initial input -->
+      <label for="">Initials:</label>
+      <input type="text" id="input-initials" >
+      <!-- submit button -->
+      <button id="button-submit">Submit</button>
+
+    </div>
+
+  </section>
+
+  <!-- highscore page -->
+  <section id="section-highscore" class="hide" >
+    <h1>Highscores</h1>
+    <!-- list of previous highscores -->
+    <ul id="list-highscores">
+      <li>Sam: 10</li>
+      <li>Jon: 5</li>
+      <li>Satya: 4</li>
+    </ul>
+
+    <!-- back to landing page button -->
+    <button id="button-home">Back to home</button>
+
+  </section>
+
+
+
+  <script src="questions.js"></script>
+  <script src="app.js"></script>
+  
+</body>
+</html>
