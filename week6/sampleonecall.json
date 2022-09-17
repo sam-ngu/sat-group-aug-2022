@@ -1,0 +1,1746 @@
+{
+  "lat": -31.9333,
+  "lon": 115.8333,
+  "timezone": "Australia/Perth",
+  "timezone_offset": 28800,
+  "current": {
+    "dt": 1663383238,
+    "sunrise": 1663366412,
+    "sunset": 1663409363,
+    "temp": 292.21,
+    "feels_like": 291.95,
+    "pressure": 1021,
+    "humidity": 68,
+    "dew_point": 286.17,
+    "uvi": 4.53,
+    "clouds": 75,
+    "visibility": 10000,
+    "wind_speed": 2.06,
+    "wind_deg": 320,
+    "weather": [
+      {
+        "id": 803,
+        "main": "Clouds",
+        "description": "broken clouds",
+        "icon": "04d"
+      }
+    ]
+  },
+  "minutely": [
+    {
+      "dt": 1663383240,
+      "precipitation": 0
+    },
+    {
+      "dt": 1663383300,
+      "precipitation": 0
+    },
+    {
+      "dt": 1663383360,
+      "precipitation": 0
+    },
+    {
+      "dt": 1663383420,
+      "precipitation": 0
+    },
+    {
+      "dt": 1663383480,
+      "precipitation": 0
+    },
+    {
+      "dt": 1663383540,
+      "precipitation": 0
+    },
+    {
+      "dt": 1663383600,
+      "precipitation": 0
+    },
+    {
+      "dt": 1663383660,
+      "precipitation": 0
+    },
+    {
+      "dt": 1663383720,
+      "precipitation": 0
+    },
+    {
+      "dt": 1663383780,
+      "precipitation": 0
+    },
+    {
+      "dt": 1663383840,
+      "precipitation": 0
+    },
+    {
+      "dt": 1663383900,
+      "precipitation": 0
+    },
+    {
+      "dt": 1663383960,
+      "precipitation": 0
+    },
+    {
+      "dt": 1663384020,
+      "precipitation": 0
+    },
+    {
+      "dt": 1663384080,
+      "precipitation": 0
+    },
+    {
+      "dt": 1663384140,
+      "precipitation": 0
+    },
+    {
+      "dt": 1663384200,
+      "precipitation": 0
+    },
+    {
+      "dt": 1663384260,
+      "precipitation": 0
+    },
+    {
+      "dt": 1663384320,
+      "precipitation": 0
+    },
+    {
+      "dt": 1663384380,
+      "precipitation": 0
+    },
+    {
+      "dt": 1663384440,
+      "precipitation": 0
+    },
+    {
+      "dt": 1663384500,
+      "precipitation": 0
+    },
+    {
+      "dt": 1663384560,
+      "precipitation": 0
+    },
+    {
+      "dt": 1663384620,
+      "precipitation": 0
+    },
+    {
+      "dt": 1663384680,
+      "precipitation": 0
+    },
+    {
+      "dt": 1663384740,
+      "precipitation": 0
+    },
+    {
+      "dt": 1663384800,
+      "precipitation": 0
+    },
+    {
+      "dt": 1663384860,
+      "precipitation": 0
+    },
+    {
+      "dt": 1663384920,
+      "precipitation": 0
+    },
+    {
+      "dt": 1663384980,
+      "precipitation": 0
+    },
+    {
+      "dt": 1663385040,
+      "precipitation": 0
+    },
+    {
+      "dt": 1663385100,
+      "precipitation": 0
+    },
+    {
+      "dt": 1663385160,
+      "precipitation": 0
+    },
+    {
+      "dt": 1663385220,
+      "precipitation": 0
+    },
+    {
+      "dt": 1663385280,
+      "precipitation": 0
+    },
+    {
+      "dt": 1663385340,
+      "precipitation": 0
+    },
+    {
+      "dt": 1663385400,
+      "precipitation": 0
+    },
+    {
+      "dt": 1663385460,
+      "precipitation": 0
+    },
+    {
+      "dt": 1663385520,
+      "precipitation": 0
+    },
+    {
+      "dt": 1663385580,
+      "precipitation": 0
+    },
+    {
+      "dt": 1663385640,
+      "precipitation": 0
+    },
+    {
+      "dt": 1663385700,
+      "precipitation": 0
+    },
+    {
+      "dt": 1663385760,
+      "precipitation": 0
+    },
+    {
+      "dt": 1663385820,
+      "precipitation": 0
+    },
+    {
+      "dt": 1663385880,
+      "precipitation": 0
+    },
+    {
+      "dt": 1663385940,
+      "precipitation": 0
+    },
+    {
+      "dt": 1663386000,
+      "precipitation": 0
+    },
+    {
+      "dt": 1663386060,
+      "precipitation": 0
+    },
+    {
+      "dt": 1663386120,
+      "precipitation": 0
+    },
+    {
+      "dt": 1663386180,
+      "precipitation": 0
+    },
+    {
+      "dt": 1663386240,
+      "precipitation": 0
+    },
+    {
+      "dt": 1663386300,
+      "precipitation": 0
+    },
+    {
+      "dt": 1663386360,
+      "precipitation": 0
+    },
+    {
+      "dt": 1663386420,
+      "precipitation": 0
+    },
+    {
+      "dt": 1663386480,
+      "precipitation": 0
+    },
+    {
+      "dt": 1663386540,
+      "precipitation": 0
+    },
+    {
+      "dt": 1663386600,
+      "precipitation": 0
+    },
+    {
+      "dt": 1663386660,
+      "precipitation": 0
+    },
+    {
+      "dt": 1663386720,
+      "precipitation": 0
+    },
+    {
+      "dt": 1663386780,
+      "precipitation": 0
+    },
+    {
+      "dt": 1663386840,
+      "precipitation": 0
+    }
+  ],
+  "hourly": [
+    {
+      "dt": 1663380000,
+      "temp": 291.57,
+      "feels_like": 291.24,
+      "pressure": 1021,
+      "humidity": 68,
+      "dew_point": 285.56,
+      "uvi": 3.22,
+      "clouds": 77,
+      "visibility": 10000,
+      "wind_speed": 1.22,
+      "wind_deg": 331,
+      "wind_gust": 1.76,
+      "weather": [
+        {
+          "id": 803,
+          "main": "Clouds",
+          "description": "broken clouds",
+          "icon": "04d"
+        }
+      ],
+      "pop": 0
+    },
+    {
+      "dt": 1663383600,
+      "temp": 292.21,
+      "feels_like": 291.95,
+      "pressure": 1021,
+      "humidity": 68,
+      "dew_point": 286.17,
+      "uvi": 4.53,
+      "clouds": 75,
+      "visibility": 10000,
+      "wind_speed": 1.91,
+      "wind_deg": 291,
+      "wind_gust": 2.43,
+      "weather": [
+        {
+          "id": 803,
+          "main": "Clouds",
+          "description": "broken clouds",
+          "icon": "04d"
+        }
+      ],
+      "pop": 0
+    },
+    {
+      "dt": 1663387200,
+      "temp": 291.89,
+      "feels_like": 291.54,
+      "pressure": 1021,
+      "humidity": 66,
+      "dew_point": 285.41,
+      "uvi": 7.39,
+      "clouds": 75,
+      "visibility": 10000,
+      "wind_speed": 2.93,
+      "wind_deg": 268,
+      "wind_gust": 3.38,
+      "weather": [
+        {
+          "id": 803,
+          "main": "Clouds",
+          "description": "broken clouds",
+          "icon": "04d"
+        }
+      ],
+      "pop": 0
+    },
+    {
+      "dt": 1663390800,
+      "temp": 291.7,
+      "feels_like": 291.31,
+      "pressure": 1021,
+      "humidity": 65,
+      "dew_point": 285,
+      "uvi": 7.13,
+      "clouds": 74,
+      "visibility": 10000,
+      "wind_speed": 3.64,
+      "wind_deg": 257,
+      "wind_gust": 3.99,
+      "weather": [
+        {
+          "id": 803,
+          "main": "Clouds",
+          "description": "broken clouds",
+          "icon": "04d"
+        }
+      ],
+      "pop": 0
+    },
+    {
+      "dt": 1663394400,
+      "temp": 291.43,
+      "feels_like": 290.96,
+      "pressure": 1020,
+      "humidity": 63,
+      "dew_point": 284.27,
+      "uvi": 5.73,
+      "clouds": 73,
+      "visibility": 10000,
+      "wind_speed": 3.95,
+      "wind_deg": 249,
+      "wind_gust": 4.42,
+      "weather": [
+        {
+          "id": 803,
+          "main": "Clouds",
+          "description": "broken clouds",
+          "icon": "04d"
+        }
+      ],
+      "pop": 0
+    },
+    {
+      "dt": 1663398000,
+      "temp": 291.15,
+      "feels_like": 290.62,
+      "pressure": 1019,
+      "humidity": 62,
+      "dew_point": 283.77,
+      "uvi": 3.39,
+      "clouds": 79,
+      "visibility": 10000,
+      "wind_speed": 4.1,
+      "wind_deg": 241,
+      "wind_gust": 4.45,
+      "weather": [
+        {
+          "id": 803,
+          "main": "Clouds",
+          "description": "broken clouds",
+          "icon": "04d"
+        }
+      ],
+      "pop": 0.17
+    },
+    {
+      "dt": 1663401600,
+      "temp": 290.6,
+      "feels_like": 290.07,
+      "pressure": 1019,
+      "humidity": 64,
+      "dew_point": 283.7,
+      "uvi": 1.65,
+      "clouds": 79,
+      "visibility": 10000,
+      "wind_speed": 4.44,
+      "wind_deg": 232,
+      "wind_gust": 4.67,
+      "weather": [
+        {
+          "id": 803,
+          "main": "Clouds",
+          "description": "broken clouds",
+          "icon": "04d"
+        }
+      ],
+      "pop": 0.18
+    },
+    {
+      "dt": 1663405200,
+      "temp": 289.92,
+      "feels_like": 289.51,
+      "pressure": 1019,
+      "humidity": 71,
+      "dew_point": 284.55,
+      "uvi": 0.51,
+      "clouds": 76,
+      "visibility": 10000,
+      "wind_speed": 4.48,
+      "wind_deg": 215,
+      "wind_gust": 4.81,
+      "weather": [
+        {
+          "id": 803,
+          "main": "Clouds",
+          "description": "broken clouds",
+          "icon": "04d"
+        }
+      ],
+      "pop": 0.15
+    },
+    {
+      "dt": 1663408800,
+      "temp": 289.02,
+      "feels_like": 288.67,
+      "pressure": 1019,
+      "humidity": 77,
+      "dew_point": 284.92,
+      "uvi": 0,
+      "clouds": 75,
+      "visibility": 10000,
+      "wind_speed": 4.33,
+      "wind_deg": 198,
+      "wind_gust": 5.56,
+      "weather": [
+        {
+          "id": 803,
+          "main": "Clouds",
+          "description": "broken clouds",
+          "icon": "04d"
+        }
+      ],
+      "pop": 0.06
+    },
+    {
+      "dt": 1663412400,
+      "temp": 288.48,
+      "feels_like": 288.13,
+      "pressure": 1020,
+      "humidity": 79,
+      "dew_point": 284.68,
+      "uvi": 0,
+      "clouds": 72,
+      "visibility": 10000,
+      "wind_speed": 3.99,
+      "wind_deg": 183,
+      "wind_gust": 5.81,
+      "weather": [
+        {
+          "id": 803,
+          "main": "Clouds",
+          "description": "broken clouds",
+          "icon": "04n"
+        }
+      ],
+      "pop": 0.06
+    },
+    {
+      "dt": 1663416000,
+      "temp": 288.22,
+      "feels_like": 287.85,
+      "pressure": 1020,
+      "humidity": 79,
+      "dew_point": 284.41,
+      "uvi": 0,
+      "clouds": 70,
+      "visibility": 10000,
+      "wind_speed": 3.48,
+      "wind_deg": 171,
+      "wind_gust": 5.32,
+      "weather": [
+        {
+          "id": 803,
+          "main": "Clouds",
+          "description": "broken clouds",
+          "icon": "04n"
+        }
+      ],
+      "pop": 0
+    },
+    {
+      "dt": 1663419600,
+      "temp": 287.92,
+      "feels_like": 287.52,
+      "pressure": 1020,
+      "humidity": 79,
+      "dew_point": 284.16,
+      "uvi": 0,
+      "clouds": 64,
+      "visibility": 10000,
+      "wind_speed": 3.03,
+      "wind_deg": 159,
+      "wind_gust": 4.55,
+      "weather": [
+        {
+          "id": 803,
+          "main": "Clouds",
+          "description": "broken clouds",
+          "icon": "04n"
+        }
+      ],
+      "pop": 0
+    },
+    {
+      "dt": 1663423200,
+      "temp": 287.18,
+      "feels_like": 286.75,
+      "pressure": 1020,
+      "humidity": 81,
+      "dew_point": 283.91,
+      "uvi": 0,
+      "clouds": 45,
+      "visibility": 10000,
+      "wind_speed": 2.77,
+      "wind_deg": 147,
+      "wind_gust": 4.02,
+      "weather": [
+        {
+          "id": 802,
+          "main": "Clouds",
+          "description": "scattered clouds",
+          "icon": "03n"
+        }
+      ],
+      "pop": 0
+    },
+    {
+      "dt": 1663426800,
+      "temp": 286.52,
+      "feels_like": 286.08,
+      "pressure": 1020,
+      "humidity": 83,
+      "dew_point": 283.58,
+      "uvi": 0,
+      "clouds": 34,
+      "visibility": 10000,
+      "wind_speed": 2.68,
+      "wind_deg": 140,
+      "wind_gust": 3.72,
+      "weather": [
+        {
+          "id": 802,
+          "main": "Clouds",
+          "description": "scattered clouds",
+          "icon": "03n"
+        }
+      ],
+      "pop": 0
+    },
+    {
+      "dt": 1663430400,
+      "temp": 286.06,
+      "feels_like": 285.57,
+      "pressure": 1019,
+      "humidity": 83,
+      "dew_point": 283.17,
+      "uvi": 0,
+      "clouds": 26,
+      "visibility": 10000,
+      "wind_speed": 2.73,
+      "wind_deg": 148,
+      "wind_gust": 3.96,
+      "weather": [
+        {
+          "id": 802,
+          "main": "Clouds",
+          "description": "scattered clouds",
+          "icon": "03n"
+        }
+      ],
+      "pop": 0
+    },
+    {
+      "dt": 1663434000,
+      "temp": 285.77,
+      "feels_like": 285.25,
+      "pressure": 1019,
+      "humidity": 83,
+      "dew_point": 282.82,
+      "uvi": 0,
+      "clouds": 21,
+      "visibility": 10000,
+      "wind_speed": 2.53,
+      "wind_deg": 146,
+      "wind_gust": 3.72,
+      "weather": [
+        {
+          "id": 801,
+          "main": "Clouds",
+          "description": "few clouds",
+          "icon": "02n"
+        }
+      ],
+      "pop": 0
+    },
+    {
+      "dt": 1663437600,
+      "temp": 285.56,
+      "feels_like": 285,
+      "pressure": 1018,
+      "humidity": 82,
+      "dew_point": 282.49,
+      "uvi": 0,
+      "clouds": 18,
+      "visibility": 10000,
+      "wind_speed": 2.46,
+      "wind_deg": 146,
+      "wind_gust": 3.41,
+      "weather": [
+        {
+          "id": 801,
+          "main": "Clouds",
+          "description": "few clouds",
+          "icon": "02n"
+        }
+      ],
+      "pop": 0
+    },
+    {
+      "dt": 1663441200,
+      "temp": 285.14,
+      "feels_like": 284.56,
+      "pressure": 1017,
+      "humidity": 83,
+      "dew_point": 282.16,
+      "uvi": 0,
+      "clouds": 0,
+      "visibility": 10000,
+      "wind_speed": 2.37,
+      "wind_deg": 136,
+      "wind_gust": 3.05,
+      "weather": [
+        {
+          "id": 800,
+          "main": "Clear",
+          "description": "clear sky",
+          "icon": "01n"
+        }
+      ],
+      "pop": 0.01
+    },
+    {
+      "dt": 1663444800,
+      "temp": 284.84,
+      "feels_like": 284.23,
+      "pressure": 1017,
+      "humidity": 83,
+      "dew_point": 281.88,
+      "uvi": 0,
+      "clouds": 1,
+      "visibility": 10000,
+      "wind_speed": 2.21,
+      "wind_deg": 126,
+      "wind_gust": 2.68,
+      "weather": [
+        {
+          "id": 800,
+          "main": "Clear",
+          "description": "clear sky",
+          "icon": "01n"
+        }
+      ],
+      "pop": 0.01
+    },
+    {
+      "dt": 1663448400,
+      "temp": 284.67,
+      "feels_like": 283.99,
+      "pressure": 1017,
+      "humidity": 81,
+      "dew_point": 281.51,
+      "uvi": 0,
+      "clouds": 3,
+      "visibility": 10000,
+      "wind_speed": 2.03,
+      "wind_deg": 121,
+      "wind_gust": 2.24,
+      "weather": [
+        {
+          "id": 800,
+          "main": "Clear",
+          "description": "clear sky",
+          "icon": "01n"
+        }
+      ],
+      "pop": 0.01
+    },
+    {
+      "dt": 1663452000,
+      "temp": 284.56,
+      "feels_like": 283.87,
+      "pressure": 1017,
+      "humidity": 81,
+      "dew_point": 281.27,
+      "uvi": 0,
+      "clouds": 4,
+      "visibility": 10000,
+      "wind_speed": 2.01,
+      "wind_deg": 103,
+      "wind_gust": 2.1,
+      "weather": [
+        {
+          "id": 800,
+          "main": "Clear",
+          "description": "clear sky",
+          "icon": "01n"
+        }
+      ],
+      "pop": 0.01
+    },
+    {
+      "dt": 1663455600,
+      "temp": 285.01,
+      "feels_like": 284.29,
+      "pressure": 1018,
+      "humidity": 78,
+      "dew_point": 281.32,
+      "uvi": 0.1,
+      "clouds": 6,
+      "visibility": 10000,
+      "wind_speed": 1.58,
+      "wind_deg": 100,
+      "wind_gust": 1.64,
+      "weather": [
+        {
+          "id": 800,
+          "main": "Clear",
+          "description": "clear sky",
+          "icon": "01d"
+        }
+      ],
+      "pop": 0.01
+    },
+    {
+      "dt": 1663459200,
+      "temp": 286.4,
+      "feels_like": 285.66,
+      "pressure": 1018,
+      "humidity": 72,
+      "dew_point": 281.34,
+      "uvi": 0.51,
+      "clouds": 8,
+      "visibility": 10000,
+      "wind_speed": 1.5,
+      "wind_deg": 73,
+      "wind_gust": 1.38,
+      "weather": [
+        {
+          "id": 800,
+          "main": "Clear",
+          "description": "clear sky",
+          "icon": "01d"
+        }
+      ],
+      "pop": 0.01
+    },
+    {
+      "dt": 1663462800,
+      "temp": 287.91,
+      "feels_like": 287.14,
+      "pressure": 1018,
+      "humidity": 65,
+      "dew_point": 281.37,
+      "uvi": 1.94,
+      "clouds": 12,
+      "visibility": 10000,
+      "wind_speed": 0.66,
+      "wind_deg": 52,
+      "wind_gust": 0.64,
+      "weather": [
+        {
+          "id": 801,
+          "main": "Clouds",
+          "description": "few clouds",
+          "icon": "02d"
+        }
+      ],
+      "pop": 0.02
+    },
+    {
+      "dt": 1663466400,
+      "temp": 289.15,
+      "feels_like": 288.37,
+      "pressure": 1017,
+      "humidity": 60,
+      "dew_point": 281.14,
+      "uvi": 3.49,
+      "clouds": 11,
+      "visibility": 10000,
+      "wind_speed": 1.15,
+      "wind_deg": 302,
+      "wind_gust": 1.78,
+      "weather": [
+        {
+          "id": 801,
+          "main": "Clouds",
+          "description": "few clouds",
+          "icon": "02d"
+        }
+      ],
+      "pop": 0.02
+    },
+    {
+      "dt": 1663470000,
+      "temp": 289.85,
+      "feels_like": 289.06,
+      "pressure": 1017,
+      "humidity": 57,
+      "dew_point": 280.94,
+      "uvi": 4.89,
+      "clouds": 8,
+      "visibility": 10000,
+      "wind_speed": 2.62,
+      "wind_deg": 283,
+      "wind_gust": 3.1,
+      "weather": [
+        {
+          "id": 800,
+          "main": "Clear",
+          "description": "clear sky",
+          "icon": "01d"
+        }
+      ],
+      "pop": 0.02
+    },
+    {
+      "dt": 1663473600,
+      "temp": 290.3,
+      "feels_like": 289.53,
+      "pressure": 1016,
+      "humidity": 56,
+      "dew_point": 281.05,
+      "uvi": 7.24,
+      "clouds": 6,
+      "visibility": 10000,
+      "wind_speed": 3.73,
+      "wind_deg": 274,
+      "wind_gust": 3.92,
+      "weather": [
+        {
+          "id": 800,
+          "main": "Clear",
+          "description": "clear sky",
+          "icon": "01d"
+        }
+      ],
+      "pop": 0.02
+    },
+    {
+      "dt": 1663477200,
+      "temp": 290.59,
+      "feels_like": 289.83,
+      "pressure": 1015,
+      "humidity": 55,
+      "dew_point": 281.17,
+      "uvi": 6.99,
+      "clouds": 5,
+      "visibility": 10000,
+      "wind_speed": 4.36,
+      "wind_deg": 272,
+      "wind_gust": 4.32,
+      "weather": [
+        {
+          "id": 800,
+          "main": "Clear",
+          "description": "clear sky",
+          "icon": "01d"
+        }
+      ],
+      "pop": 0.02
+    },
+    {
+      "dt": 1663480800,
+      "temp": 290.64,
+      "feels_like": 289.85,
+      "pressure": 1015,
+      "humidity": 54,
+      "dew_point": 281.16,
+      "uvi": 5.63,
+      "clouds": 4,
+      "visibility": 10000,
+      "wind_speed": 4.53,
+      "wind_deg": 268,
+      "wind_gust": 4.58,
+      "weather": [
+        {
+          "id": 800,
+          "main": "Clear",
+          "description": "clear sky",
+          "icon": "01d"
+        }
+      ],
+      "pop": 0.05
+    },
+    {
+      "dt": 1663484400,
+      "temp": 290.58,
+      "feels_like": 289.81,
+      "pressure": 1014,
+      "humidity": 55,
+      "dew_point": 281.34,
+      "uvi": 3.63,
+      "clouds": 0,
+      "visibility": 10000,
+      "wind_speed": 5.02,
+      "wind_deg": 259,
+      "wind_gust": 5.19,
+      "weather": [
+        {
+          "id": 800,
+          "main": "Clear",
+          "description": "clear sky",
+          "icon": "01d"
+        }
+      ],
+      "pop": 0.17
+    },
+    {
+      "dt": 1663488000,
+      "temp": 290,
+      "feels_like": 289.31,
+      "pressure": 1014,
+      "humidity": 60,
+      "dew_point": 282.11,
+      "uvi": 1.79,
+      "clouds": 1,
+      "visibility": 10000,
+      "wind_speed": 5.21,
+      "wind_deg": 250,
+      "wind_gust": 5.46,
+      "weather": [
+        {
+          "id": 800,
+          "main": "Clear",
+          "description": "clear sky",
+          "icon": "01d"
+        }
+      ],
+      "pop": 0.14
+    },
+    {
+      "dt": 1663491600,
+      "temp": 289.02,
+      "feels_like": 288.44,
+      "pressure": 1014,
+      "humidity": 68,
+      "dew_point": 283.08,
+      "uvi": 0.57,
+      "clouds": 11,
+      "visibility": 10000,
+      "wind_speed": 4.78,
+      "wind_deg": 237,
+      "wind_gust": 5.34,
+      "weather": [
+        {
+          "id": 801,
+          "main": "Clouds",
+          "description": "few clouds",
+          "icon": "02d"
+        }
+      ],
+      "pop": 0.16
+    },
+    {
+      "dt": 1663495200,
+      "temp": 287.97,
+      "feels_like": 287.44,
+      "pressure": 1014,
+      "humidity": 74,
+      "dew_point": 283.4,
+      "uvi": 0,
+      "clouds": 23,
+      "visibility": 10000,
+      "wind_speed": 4.12,
+      "wind_deg": 226,
+      "wind_gust": 5.3,
+      "weather": [
+        {
+          "id": 500,
+          "main": "Rain",
+          "description": "light rain",
+          "icon": "10d"
+        }
+      ],
+      "pop": 0.39,
+      "rain": {
+        "1h": 0.16
+      }
+    },
+    {
+      "dt": 1663498800,
+      "temp": 287.58,
+      "feels_like": 287.06,
+      "pressure": 1014,
+      "humidity": 76,
+      "dew_point": 283.33,
+      "uvi": 0,
+      "clouds": 34,
+      "visibility": 10000,
+      "wind_speed": 3.56,
+      "wind_deg": 227,
+      "wind_gust": 5.03,
+      "weather": [
+        {
+          "id": 500,
+          "main": "Rain",
+          "description": "light rain",
+          "icon": "10n"
+        }
+      ],
+      "pop": 0.2,
+      "rain": {
+        "1h": 0.15
+      }
+    },
+    {
+      "dt": 1663502400,
+      "temp": 287.41,
+      "feels_like": 286.93,
+      "pressure": 1015,
+      "humidity": 78,
+      "dew_point": 283.39,
+      "uvi": 0,
+      "clouds": 40,
+      "visibility": 10000,
+      "wind_speed": 3.84,
+      "wind_deg": 244,
+      "wind_gust": 5.52,
+      "weather": [
+        {
+          "id": 500,
+          "main": "Rain",
+          "description": "light rain",
+          "icon": "10n"
+        }
+      ],
+      "pop": 0.28,
+      "rain": {
+        "1h": 0.21
+      }
+    },
+    {
+      "dt": 1663506000,
+      "temp": 287.28,
+      "feels_like": 286.76,
+      "pressure": 1015,
+      "humidity": 77,
+      "dew_point": 283.19,
+      "uvi": 0,
+      "clouds": 87,
+      "visibility": 10000,
+      "wind_speed": 5.68,
+      "wind_deg": 258,
+      "wind_gust": 7.37,
+      "weather": [
+        {
+          "id": 500,
+          "main": "Rain",
+          "description": "light rain",
+          "icon": "10n"
+        }
+      ],
+      "pop": 0.48,
+      "rain": {
+        "1h": 0.39
+      }
+    },
+    {
+      "dt": 1663509600,
+      "temp": 287.29,
+      "feels_like": 286.72,
+      "pressure": 1014,
+      "humidity": 75,
+      "dew_point": 282.69,
+      "uvi": 0,
+      "clouds": 92,
+      "visibility": 10000,
+      "wind_speed": 6.54,
+      "wind_deg": 262,
+      "wind_gust": 8.84,
+      "weather": [
+        {
+          "id": 500,
+          "main": "Rain",
+          "description": "light rain",
+          "icon": "10n"
+        }
+      ],
+      "pop": 0.55,
+      "rain": {
+        "1h": 0.29
+      }
+    },
+    {
+      "dt": 1663513200,
+      "temp": 286.95,
+      "feels_like": 286.34,
+      "pressure": 1014,
+      "humidity": 75,
+      "dew_point": 282.53,
+      "uvi": 0,
+      "clouds": 91,
+      "visibility": 10000,
+      "wind_speed": 6.67,
+      "wind_deg": 261,
+      "wind_gust": 9.2,
+      "weather": [
+        {
+          "id": 500,
+          "main": "Rain",
+          "description": "light rain",
+          "icon": "10n"
+        }
+      ],
+      "pop": 0.66,
+      "rain": {
+        "1h": 0.22
+      }
+    },
+    {
+      "dt": 1663516800,
+      "temp": 286.78,
+      "feels_like": 286.16,
+      "pressure": 1013,
+      "humidity": 75,
+      "dew_point": 282.22,
+      "uvi": 0,
+      "clouds": 91,
+      "visibility": 10000,
+      "wind_speed": 6.4,
+      "wind_deg": 265,
+      "wind_gust": 9.18,
+      "weather": [
+        {
+          "id": 500,
+          "main": "Rain",
+          "description": "light rain",
+          "icon": "10n"
+        }
+      ],
+      "pop": 0.75,
+      "rain": {
+        "1h": 0.21
+      }
+    },
+    {
+      "dt": 1663520400,
+      "temp": 286.79,
+      "feels_like": 286.06,
+      "pressure": 1012,
+      "humidity": 71,
+      "dew_point": 281.48,
+      "uvi": 0,
+      "clouds": 90,
+      "visibility": 10000,
+      "wind_speed": 6.52,
+      "wind_deg": 271,
+      "wind_gust": 9.62,
+      "weather": [
+        {
+          "id": 500,
+          "main": "Rain",
+          "description": "light rain",
+          "icon": "10n"
+        }
+      ],
+      "pop": 0.82,
+      "rain": {
+        "1h": 0.13
+      }
+    },
+    {
+      "dt": 1663524000,
+      "temp": 286.63,
+      "feels_like": 285.89,
+      "pressure": 1011,
+      "humidity": 71,
+      "dew_point": 281.3,
+      "uvi": 0,
+      "clouds": 89,
+      "visibility": 10000,
+      "wind_speed": 5.55,
+      "wind_deg": 287,
+      "wind_gust": 8.72,
+      "weather": [
+        {
+          "id": 804,
+          "main": "Clouds",
+          "description": "overcast clouds",
+          "icon": "04n"
+        }
+      ],
+      "pop": 0.89
+    },
+    {
+      "dt": 1663527600,
+      "temp": 286.04,
+      "feels_like": 285.34,
+      "pressure": 1010,
+      "humidity": 75,
+      "dew_point": 281.5,
+      "uvi": 0,
+      "clouds": 8,
+      "visibility": 10000,
+      "wind_speed": 7.41,
+      "wind_deg": 285,
+      "wind_gust": 10.37,
+      "weather": [
+        {
+          "id": 500,
+          "main": "Rain",
+          "description": "light rain",
+          "icon": "10n"
+        }
+      ],
+      "pop": 0.63,
+      "rain": {
+        "1h": 0.32
+      }
+    },
+    {
+      "dt": 1663531200,
+      "temp": 284.74,
+      "feels_like": 284.2,
+      "pressure": 1010,
+      "humidity": 86,
+      "dew_point": 282.43,
+      "uvi": 0,
+      "clouds": 51,
+      "visibility": 5377,
+      "wind_speed": 9.06,
+      "wind_deg": 246,
+      "wind_gust": 13.81,
+      "weather": [
+        {
+          "id": 501,
+          "main": "Rain",
+          "description": "moderate rain",
+          "icon": "10n"
+        }
+      ],
+      "pop": 0.92,
+      "rain": {
+        "1h": 2.71
+      }
+    },
+    {
+      "dt": 1663534800,
+      "temp": 285.82,
+      "feels_like": 285.07,
+      "pressure": 1010,
+      "humidity": 74,
+      "dew_point": 281.07,
+      "uvi": 0,
+      "clouds": 67,
+      "visibility": 10000,
+      "wind_speed": 9.4,
+      "wind_deg": 243,
+      "wind_gust": 13.05,
+      "weather": [
+        {
+          "id": 501,
+          "main": "Rain",
+          "description": "moderate rain",
+          "icon": "10n"
+        }
+      ],
+      "pop": 1,
+      "rain": {
+        "1h": 1.67
+      }
+    },
+    {
+      "dt": 1663538400,
+      "temp": 285.68,
+      "feels_like": 284.82,
+      "pressure": 1011,
+      "humidity": 70,
+      "dew_point": 280.28,
+      "uvi": 0,
+      "clouds": 75,
+      "visibility": 10000,
+      "wind_speed": 10.37,
+      "wind_deg": 250,
+      "wind_gust": 13.62,
+      "weather": [
+        {
+          "id": 500,
+          "main": "Rain",
+          "description": "light rain",
+          "icon": "10n"
+        }
+      ],
+      "pop": 1,
+      "rain": {
+        "1h": 0.42
+      }
+    },
+    {
+      "dt": 1663542000,
+      "temp": 285.59,
+      "feels_like": 284.69,
+      "pressure": 1011,
+      "humidity": 69,
+      "dew_point": 279.89,
+      "uvi": 0.08,
+      "clouds": 80,
+      "visibility": 10000,
+      "wind_speed": 9.82,
+      "wind_deg": 252,
+      "wind_gust": 13.3,
+      "weather": [
+        {
+          "id": 500,
+          "main": "Rain",
+          "description": "light rain",
+          "icon": "10d"
+        }
+      ],
+      "pop": 1,
+      "rain": {
+        "1h": 0.27
+      }
+    },
+    {
+      "dt": 1663545600,
+      "temp": 285.15,
+      "feels_like": 284.39,
+      "pressure": 1011,
+      "humidity": 76,
+      "dew_point": 280.96,
+      "uvi": 0.4,
+      "clouds": 83,
+      "visibility": 10000,
+      "wind_speed": 10.41,
+      "wind_deg": 264,
+      "wind_gust": 13.08,
+      "weather": [
+        {
+          "id": 500,
+          "main": "Rain",
+          "description": "light rain",
+          "icon": "10d"
+        }
+      ],
+      "pop": 1,
+      "rain": {
+        "1h": 0.43
+      }
+    },
+    {
+      "dt": 1663549200,
+      "temp": 285.72,
+      "feels_like": 285.12,
+      "pressure": 1010,
+      "humidity": 80,
+      "dew_point": 282.23,
+      "uvi": 0.48,
+      "clouds": 82,
+      "visibility": 10000,
+      "wind_speed": 7.47,
+      "wind_deg": 250,
+      "wind_gust": 12,
+      "weather": [
+        {
+          "id": 500,
+          "main": "Rain",
+          "description": "light rain",
+          "icon": "10d"
+        }
+      ],
+      "pop": 1,
+      "rain": {
+        "1h": 0.68
+      }
+    }
+  ],
+  "daily": [
+    {
+      "dt": 1663387200,
+      "sunrise": 1663366412,
+      "sunset": 1663409363,
+      "moonrise": 1663344720,
+      "moonset": 1663381080,
+      "moon_phase": 0.73,
+      "temp": {
+        "day": 291.89,
+        "min": 285.27,
+        "max": 292.21,
+        "night": 286.52,
+        "eve": 289.02,
+        "morn": 285.27
+      },
+      "feels_like": {
+        "day": 291.54,
+        "night": 286.08,
+        "eve": 288.67,
+        "morn": 284.7
+      },
+      "pressure": 1021,
+      "humidity": 66,
+      "dew_point": 285.41,
+      "wind_speed": 4.48,
+      "wind_deg": 215,
+      "wind_gust": 5.81,
+      "weather": [
+        {
+          "id": 803,
+          "main": "Clouds",
+          "description": "broken clouds",
+          "icon": "04d"
+        }
+      ],
+      "clouds": 75,
+      "pop": 0.18,
+      "uvi": 7.39
+    },
+    {
+      "dt": 1663473600,
+      "sunrise": 1663452732,
+      "sunset": 1663495798,
+      "moonrise": 1663434600,
+      "moonset": 1663470180,
+      "moon_phase": 0.75,
+      "temp": {
+        "day": 290.3,
+        "min": 284.56,
+        "max": 290.64,
+        "night": 286.95,
+        "eve": 287.97,
+        "morn": 284.56
+      },
+      "feels_like": {
+        "day": 289.53,
+        "night": 286.34,
+        "eve": 287.44,
+        "morn": 283.87
+      },
+      "pressure": 1016,
+      "humidity": 56,
+      "dew_point": 281.05,
+      "wind_speed": 6.67,
+      "wind_deg": 261,
+      "wind_gust": 9.2,
+      "weather": [
+        {
+          "id": 500,
+          "main": "Rain",
+          "description": "light rain",
+          "icon": "10d"
+        }
+      ],
+      "clouds": 6,
+      "pop": 0.66,
+      "rain": 1.42,
+      "uvi": 7.24
+    },
+    {
+      "dt": 1663560000,
+      "sunrise": 1663539052,
+      "sunset": 1663582234,
+      "moonrise": 1663524240,
+      "moonset": 1663559580,
+      "moon_phase": 0.79,
+      "temp": {
+        "day": 288.52,
+        "min": 284.74,
+        "max": 288.52,
+        "night": 285.38,
+        "eve": 287.63,
+        "morn": 285.68
+      },
+      "feels_like": {
+        "day": 287.78,
+        "night": 284.28,
+        "eve": 286.52,
+        "morn": 284.82
+      },
+      "pressure": 1013,
+      "humidity": 64,
+      "dew_point": 281.56,
+      "wind_speed": 12.31,
+      "wind_deg": 199,
+      "wind_gust": 16.19,
+      "weather": [
+        {
+          "id": 501,
+          "main": "Rain",
+          "description": "moderate rain",
+          "icon": "10d"
+        }
+      ],
+      "clouds": 71,
+      "pop": 1,
+      "rain": 9.07,
+      "uvi": 1.81
+    },
+    {
+      "dt": 1663646400,
+      "sunrise": 1663625371,
+      "sunset": 1663668670,
+      "moonrise": 1663613640,
+      "moonset": 1663649220,
+      "moon_phase": 0.82,
+      "temp": {
+        "day": 290.53,
+        "min": 285.38,
+        "max": 290.99,
+        "night": 287.58,
+        "eve": 289.97,
+        "morn": 286.65
+      },
+      "feels_like": {
+        "day": 289.79,
+        "night": 286.91,
+        "eve": 289.27,
+        "morn": 285.7
+      },
+      "pressure": 1023,
+      "humidity": 56,
+      "dew_point": 281.67,
+      "wind_speed": 6.15,
+      "wind_deg": 268,
+      "wind_gust": 7.01,
+      "weather": [
+        {
+          "id": 802,
+          "main": "Clouds",
+          "description": "scattered clouds",
+          "icon": "03d"
+        }
+      ],
+      "clouds": 25,
+      "pop": 0,
+      "uvi": 7.85
+    },
+    {
+      "dt": 1663732800,
+      "sunrise": 1663711691,
+      "sunset": 1663755106,
+      "moonrise": 1663702680,
+      "moonset": 1663739040,
+      "moon_phase": 0.85,
+      "temp": {
+        "day": 290.97,
+        "min": 286.82,
+        "max": 290.97,
+        "night": 288.6,
+        "eve": 290.04,
+        "morn": 286.95
+      },
+      "feels_like": {
+        "day": 290.32,
+        "night": 288.24,
+        "eve": 289.56,
+        "morn": 286.32
+      },
+      "pressure": 1019,
+      "humidity": 58,
+      "dew_point": 282.56,
+      "wind_speed": 7.38,
+      "wind_deg": 289,
+      "wind_gust": 9.76,
+      "weather": [
+        {
+          "id": 500,
+          "main": "Rain",
+          "description": "light rain",
+          "icon": "10d"
+        }
+      ],
+      "clouds": 92,
+      "pop": 0.54,
+      "rain": 0.87,
+      "uvi": 8.06
+    },
+    {
+      "dt": 1663819200,
+      "sunrise": 1663798011,
+      "sunset": 1663841542,
+      "moonrise": 1663791420,
+      "moonset": 1663828920,
+      "moon_phase": 0.88,
+      "temp": {
+        "day": 287.74,
+        "min": 285.58,
+        "max": 289.81,
+        "night": 285.58,
+        "eve": 289.81,
+        "morn": 286.26
+      },
+      "feels_like": {
+        "day": 286.95,
+        "night": 284.76,
+        "eve": 289.05,
+        "morn": 285.77
+      },
+      "pressure": 1021,
+      "humidity": 65,
+      "dew_point": 281.12,
+      "wind_speed": 4.01,
+      "wind_deg": 154,
+      "wind_gust": 6.57,
+      "weather": [
+        {
+          "id": 500,
+          "main": "Rain",
+          "description": "light rain",
+          "icon": "10d"
+        }
+      ],
+      "clouds": 99,
+      "pop": 0.73,
+      "rain": 0.7,
+      "uvi": 9
+    },
+    {
+      "dt": 1663905600,
+      "sunrise": 1663884331,
+      "sunset": 1663927978,
+      "moonrise": 1663879860,
+      "moonset": 1663918860,
+      "moon_phase": 0.91,
+      "temp": {
+        "day": 290.6,
+        "min": 283.59,
+        "max": 291.16,
+        "night": 286.07,
+        "eve": 289.65,
+        "morn": 283.59
+      },
+      "feels_like": {
+        "day": 289.99,
+        "night": 285.38,
+        "eve": 289.21,
+        "morn": 282.7
+      },
+      "pressure": 1013,
+      "humidity": 61,
+      "dew_point": 282.92,
+      "wind_speed": 12.48,
+      "wind_deg": 240,
+      "wind_gust": 16.57,
+      "weather": [
+        {
+          "id": 501,
+          "main": "Rain",
+          "description": "moderate rain",
+          "icon": "10d"
+        }
+      ],
+      "clouds": 39,
+      "pop": 1,
+      "rain": 6.78,
+      "uvi": 9
+    },
+    {
+      "dt": 1663992000,
+      "sunrise": 1663970651,
+      "sunset": 1664014414,
+      "moonrise": 1663968180,
+      "moonset": 1664008800,
+      "moon_phase": 0.94,
+      "temp": {
+        "day": 287.67,
+        "min": 284.6,
+        "max": 287.91,
+        "night": 286.25,
+        "eve": 287.12,
+        "morn": 284.6
+      },
+      "feels_like": {
+        "day": 286.59,
+        "night": 285.34,
+        "eve": 286.03,
+        "morn": 283.63
+      },
+      "pressure": 1014,
+      "humidity": 54,
+      "dew_point": 278.24,
+      "wind_speed": 12.32,
+      "wind_deg": 230,
+      "wind_gust": 16.26,
+      "weather": [
+        {
+          "id": 501,
+          "main": "Rain",
+          "description": "moderate rain",
+          "icon": "10d"
+        }
+      ],
+      "clouds": 89,
+      "pop": 1,
+      "rain": 10.36,
+      "uvi": 9
+    }
+  ]
+}
