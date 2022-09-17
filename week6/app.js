@@ -1,6 +1,6 @@
 
 
-const apiKey = 'd91f911bcf2c0f925fb6535547a5ddc9';
+const apiKey = 'byoapikey';
 function getSearchedCities(){
 
   return JSON.parse(localStorage.getItem('cities')) || [];
